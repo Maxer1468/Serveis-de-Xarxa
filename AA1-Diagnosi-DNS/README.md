@@ -138,8 +138,8 @@ Anàlisi: Descriviu el funcionament del protocol mDNS (Multicast DNS), quin port
 
 * Apunts del mòdul 0227 Serveis de xarxa
 
-* Pàgines de manual: man dig, man nslookup
+* Manual: man dig, man nslookup
 
-* Imatge central DNS mapa conceptual: [Conversa Gemini DNS logo](https://share.gemini.google/6Lepg4t1xfxm)
+* Imatge DNS: [Conversa Gemini DNS logo](https://share.gemini.google/6Lepg4t1xfxm)
 
-* Eines: ip, dig , nslookup, hostname a Zorin OS i ping a Windows PowerShell.
+* Eines: ip, dig , nslookup.

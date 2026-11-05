@@ -130,21 +130,16 @@ ping <hostname>.local
 
 Anàlisi: Descriviu el funcionament del protocol mDNS (Multicast DNS), quin port utilitza (UDP 5353) i quin avantatge aporta en entorns sense servidor DNS configurat.
 
-## 4. Instruccions de lliurament
-Pugeu a la tasca de Moodle un fitxer comprimit en format .zip amb la nomenclatura:
+## MAPA CONCEPTUAL
 
-Cognoms_Nom_Practica_DNS_Comandes.zip
+![](./img/13.PNG)
 
-El fitxer ha de contenir:
+## FONTS i EINES UTILITZADES
 
-Document guia.md:
+* Apunts del mòdul 0227 Serveis de xarxa
 
-Enllaç al vídeo de la píndola formativa (YouTube, Vimeo o Google Drive amb permisos de visualització oberts).
+* Pàgines de manual: man dig, man nslookup
 
-Captures de pantalla clares de l'execució de les 6 comandes (dig i nslookup) i de les proves de mDNS.
+* Imatge central DNS mapa conceptual: [Conversa Gemini DNS logo](https://share.gemini.google/6Lepg4t1xfxm)
 
-Respostes analítiques i justificacions tècniques a cadascun dels punts demanats.
-
-Comprovació de la configuració de les dues interfícies de xarxa (ip a o ifconfig).
-
-Apartat de fonts i eines consultades (declaració de l'ús d'eines d'IA generativa o enllaços a la documentació utilitzada).
+* Eines: ip, dig , nslookup, hostname a Zorin OS i ping a Windows PowerShell.
